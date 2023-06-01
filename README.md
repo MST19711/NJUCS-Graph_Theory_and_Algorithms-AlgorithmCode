@@ -4,7 +4,7 @@
 
 这个仓库中有 NJUCS 图论与算法Graph_Theory_and_Algorithms(GTA) 课程中一些算法的实现。
 
-其涉及到的算法有:
+涉及到的算法有:
 
 - 用于判图中存在几个联通分支的简单的DFS 
 
