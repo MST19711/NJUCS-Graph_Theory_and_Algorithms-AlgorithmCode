@@ -1,4 +1,4 @@
-# NJUCS-Graph_Theory_and_Algorithms_2023-OJcode
+# NJUCS-Graph_Theory_and_Algorithms-OJcode
 > 这些代码可以通过2023年春季课程的的OJ中的所有测试，除此之外我无法保证她们的正确性
 
 这个仓库包含了2023年春季学期NJUCS 图论与算法Graph_Theory_and_Algorithms(GTA)课程的4次OJ上机测试中所有题目的代码。
